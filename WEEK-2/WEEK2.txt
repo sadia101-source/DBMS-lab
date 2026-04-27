@@ -5,6 +5,7 @@ insert into Student values(101, 'sadia', 1234 , 'ABC123' , 3);
 Select * from Student;
 
 create table Instructor(ins_id int PRIMARY KEY , name varchar(50) , designation varchar(100) , experience int);
+
 desc Instructor;
 insert into Instructor values(3412, 'Naved' , 'assistant professor' , 3);
 Select * from Instructor;
