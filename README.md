@@ -1,2 +1,2 @@
 # DBMS-lab Codes
-## online notebook for lab work.
+## online RECORD of lab work.
